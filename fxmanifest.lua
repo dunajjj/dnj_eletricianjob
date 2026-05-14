@@ -7,7 +7,7 @@ shared_scripts {
 }
 
 client_scripts {
-    'loader.lua'
+    'client/*.lua'
 }
 
 server_scripts {
