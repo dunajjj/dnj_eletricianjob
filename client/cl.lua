@@ -332,7 +332,7 @@ function startjob()
                     SetCamActive(camjob, true)
                     RenderScriptCams(true, true, 500, true, true)
 
-                    TriggerEvent('Mx::StartMinigameElectricCircuit', '50%', '50%', '1.0', '30vmin', '1.ogg', function()
+                    TriggerEvent('Mx::StartMinigameElectricCircuit', '50%', '50%', '1.0', '30vmin', '1.ogg', function() -- https://forum.cfx.re/t/free-release-fix-wiring-standalone/4864403 hakunamatata
                         ClearPedTasks(ped)
                         RenderScriptCams(false, true, 500, true, true)
                         DestroyCam(camjob, false)
