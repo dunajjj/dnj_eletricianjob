@@ -17,7 +17,7 @@ function cmac(tentity, callback)
     local targetpos = GetOffsetFromEntityInWorldCoords(tentity, 0.0, -1.0, 0.0)
     local theading = GetEntityHeading(tentity)
 
-    local ground, gz = GetgzFor_3dCoord(targetpos.x, targetpos.y, targetpos.z + 10.0, false)
+    local ground, gz = GetGroundZFor_3dCoord(targetpos.x, targetpos.y, targetpos.z + 10.0, false)
     local finalz = targetpos.z
     if ground then
          finalz = gz
