@@ -8,8 +8,8 @@ MX Wiring [ https://forum.cfx.re/t/free-release-fix-wiring-standalone/4864403 ]
 
 # In-game Preview
 
-
+https://streamable.com/vilrs7
 
 # Config Preview
 
-![image_alt](https://r2.fivemanage.com/tH16vV9pn3V1GOAEIGYcQ/spspsp.png)
+![image_alt](https://r2.fivemanage.com/tH16vV9pn3V1GOAEIGYcQ/carbon(7).png)
